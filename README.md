@@ -28,7 +28,7 @@ I’m currently learning Python!
 &nbsp;
 <img src="https://custom-icon-badges.herokuapp.com/badge/Power%20BI-0A0C10?logo=new_power_bi_logo&style=for-the-badge" alt="Power BI logo" title="Power BI" height="30" />
 &nbsp;
-<img src="https://custom-icon-badges.herokuapp.com/badge/SQL-0A0C10?logo=sqpng02&style=for-the-badge" alt="SQL logo" title="SQL" height="30" />
+<img src="https://custom-icon-badges.herokuapp.com/badge/SQL-0A0C10?logo=sql_server(4)&style=for-the-badge" alt="SQL logo" title="SQL" height="30" />
 &nbsp;
 <img src="https://custom-icon-badges.herokuapp.com/badge/VS%20Code-0A0C10?logo=visual_studio_code_1&style=for-the-badge" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
 &nbsp;
