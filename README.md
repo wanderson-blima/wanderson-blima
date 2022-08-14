@@ -33,8 +33,6 @@ I’m currently learning Python!
 <img src="https://img.shields.io/badge/VS%20Code-0A0C10?logo=visual-studio-code&logoColor=007ACC&style=for-the-badge" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
 &nbsp;
 <img src="https://img.shields.io/badge/Git-0A0C10?logo=git&logoColor=F05032&style=for-the-badge" alt="Git logo" title="Git" height="30" />
-&nbsp;
-<img src="https://img.shields.io/badge/GitHub-0A0C10?logo=github&logoColor=FFFFFF&style=for-the-badge" alt="GitHub logo" title="GitHub" height="30" />
 
 <a name="learning-next"></a>
   
