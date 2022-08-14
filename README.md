@@ -48,6 +48,6 @@ I’m currently learning Python!
   
 <!-- CONTADOR DE VISITAS -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wanderson-blima&left_color=0A0C10&right_color=0A0C10)
-    
+![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wanderson-blima&color=0A0C10&lcolor=0A0C10&style=for-the-badge&logo=Github&logoColor=#181717)
+
 </div>
