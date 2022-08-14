@@ -24,7 +24,7 @@ I’m currently learning Python!
 
 <a name="learning-now"></a>
 
-<img src="https://img.shields.io/badge/Python-0A0C10?logo=python&logoColor=3A76A8&style=for-the-badge" alt="Python logo" title="Python" height="30" />
+<img src="https://custom-icon-badges.herokuapp.com/badge/Python-0A0C10?logo=python%20(3)&logoColor=3A76A8&style=for-the-badge" alt="Python logo" title="Python" height="30" />
 &nbsp;
 <img src="https://img.shields.io/badge/Power%20BI-0A0C10?logo=power%20bi&style=for-the-badge" alt="Power BI logo" title="Power BI" height="30" />
 &nbsp;
