@@ -46,5 +46,7 @@ I’m currently learning Python!
 <div align="center">
     <a href="https://www.linkedin.com/in/wanderson-blima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" target="_blank"></a>
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=wanderson-blima)
+<!-- CONTADOR DE VISITAS -->  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wanderson-blima&left_color=0A0C10&right_color=0A0C10)
+    
 </div>
