@@ -24,11 +24,11 @@ I’m currently learning Python!
 
 <a name="learning-now"></a>
 
-<img src="https://custom-icon-badges.herokuapp.com/badge/Python-0A0C10?logo=python%20(3)&logoColor=3A76A8&style=for-the-badge" alt="Python logo" title="Python" height="30" />
+<img src="https://custom-icon-badges.herokuapp.com/badge/Python-0A0C10?logo=pythonlogo01&style=for-the-badge" alt="Python logo" title="Python" height="30" />
 &nbsp;
 <img src="https://img.shields.io/badge/Power%20BI-0A0C10?logo=power%20bi&style=for-the-badge" alt="Power BI logo" title="Power BI" height="30" />
 &nbsp;
-<img src="https://img.shields.io/badge/SQL-0A0C10?logo=microsoft%20sql%20server&style=for-the-badge" alt="SQL logo" title="SQL" height="30" />
+<img src="https://custom-icon-badges.herokuapp.com/badge/SQL-0A0C10?logo=sqpng02&style=for-the-badge" alt="SQL logo" title="SQL" height="30" />
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-0A0C10?logo=visual-studio-code&logoColor=007ACC&style=for-the-badge" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
 &nbsp;
