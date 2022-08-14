@@ -32,7 +32,7 @@ I’m currently learning Python!
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-0A0C10?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="20" />
 &nbsp;
-<img src="https://img.shields.io/badge/Git-0A0C10?logo=git&logoColor=F05032" alt="git logo" title="git" height="20" />
+<img src="https://img.shields.io/badge/Git-0A0C10?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/GitHub-0A0C10?logo=github&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="20" />
 
