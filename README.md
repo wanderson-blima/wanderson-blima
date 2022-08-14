@@ -24,17 +24,17 @@ I’m currently learning Python!
 
 <a name="learning-now"></a>
 
-<img src="https://img.shields.io/badge/Python-0A0C10?logo=python&logoColor=3A76A8" alt="Python logo" title="Python" height="20" />
+<img src="https://img.shields.io/badge/Python-0A0C10?logo=python&logoColor=3A76A8&style=for-the-badge" alt="Python logo" title="Python" height="30" />
 &nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-0A0C10?logo=power%20bi" alt="Power BI logo" title="Power BI" height="20" />
+<img src="https://img.shields.io/badge/Power%20BI-0A0C10?logo=power%20bi&style=for-the-badge" alt="Power BI logo" title="Power BI" height="30" />
 &nbsp;
-<img src="https://img.shields.io/badge/SQL-0A0C10?logo=microsoft%20sql%20server" alt="SQL logo" title="SQL" height="20" />
+<img src="https://img.shields.io/badge/SQL-0A0C10?logo=microsoft%20sql%20server&style=for-the-badge" alt="SQL logo" title="SQL" height="30" />
 &nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-0A0C10?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="20" />
+<img src="https://img.shields.io/badge/VS%20Code-0A0C10?logo=visual-studio-code&logoColor=007ACC&style=for-the-badge" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
 &nbsp;
-<img src="https://img.shields.io/badge/Git-0A0C10?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="20" />
+<img src="https://img.shields.io/badge/Git-0A0C10?logo=git&logoColor=F05032&style=for-the-badge" alt="Git logo" title="Git" height="30" />
 &nbsp;
-<img src="https://img.shields.io/badge/GitHub-0A0C10?logo=github&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="20" />
+<img src="https://img.shields.io/badge/GitHub-0A0C10?logo=github&logoColor=FFFFFF&style=for-the-badge" alt="GitHub logo" title="GitHub" height="30" />
 
 <a name="learning-next"></a>
   
@@ -46,7 +46,8 @@ I’m currently learning Python!
 <div align="center">
     <a href="https://www.linkedin.com/in/wanderson-blima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" target="_blank"></a>
   
-<!-- CONTADOR DE VISITAS -->  
+<!-- CONTADOR DE VISITAS -->
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wanderson-blima&left_color=0A0C10&right_color=0A0C10)
     
 </div>
