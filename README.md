@@ -24,17 +24,17 @@ I’m currently learning Python!
 
 <a name="learning-now"></a>
 
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3A76A8" alt="Python logo" title="Python" height="20" />
+<img src="https://img.shields.io/badge/Python-0A0C10?logo=python&logoColor=3A76A8" alt="Python logo" title="Python" height="20" />
 &nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-282C34?logo=power%20bi" alt="Power BI logo" title="Power BI" height="20" />
+<img src="https://img.shields.io/badge/Power%20BI-0A0C10?logo=power%20bi" alt="Power BI logo" title="Power BI" height="20" />
 &nbsp;
-<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=03486C" alt="MySQL logo" title="MySQL" height="20" />
+<img src="https://img.shields.io/badge/SQL-0A0C10?logo=microsoft%20sql%20server" alt="SQL logo" title="SQL" height="20" />
 &nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="20" />
+<img src="https://img.shields.io/badge/VS%20Code-0A0C10?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="20" />
 &nbsp;
-<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="20" />
+<img src="https://img.shields.io/badge/Git-0A0C10?logo=git&logoColor=F05032" alt="git logo" title="git" height="20" />
 &nbsp;
-<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="20" />
+<img src="https://img.shields.io/badge/GitHub-0A0C10?logo=github&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="20" />
 
 <a name="learning-next"></a>
   
