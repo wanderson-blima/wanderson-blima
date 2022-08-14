@@ -2,16 +2,20 @@
 I’m currently learning Python! 
 
 <br>
-
 <!-- GITHUB STATUS -->
+
+## 📊 Github Stats
+
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanderson-blima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="118m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderson-blima&layout=compact&langs_count=10&theme=dark"/>
+  
+<a href="https://github.com/wanderson-blima/GitHub_Stats_Transparent">
+  
+![Stats Overview](https://raw.githubusercontent.com/wanderson-blima/GitHub_Stats_Transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/wanderson-blima/GitHub_Stats_Transparent/output/generated/languages.svg)
 
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</a>
 </div>
-
-<br>
 
 <!-- TECNOLOGIAS -->
 <div align="center">
