@@ -1,7 +1,24 @@
-## Hi there 👋
+## Wanderson Lima
+<div align="left">
 
-A 3 anos focado na criação de dashboards no POWER BI oferecendo insights estratégicos para a organização, com mais de 50 dashboards já em produção e amplamente utilizado por toda rede hoteleira. Atuo atualmente no setor de Planejamento e Inteligência de Mercado, principal área de suporte à tomada de decisões estratégicas da empresa, sendo responsável pelo Data Warehouse de vendas e criação de Dashboards no Power BI com foco em automação de processos e acompanhamentos de KPIs. Participei da implantação dos processos da central de Revenue Management da Atlântica Hospitality International, com participação direta na criação dos relatórios estratégicos no Power BI que hoje englobam os processos analíticos diários do setor. Com ampla capacidade analítica, previsão de demanda, elaboração Forecast e criação de relatórios, seja em Excel ou Power BI, com foco em resultados; gestão e treinamento de equipe.
+<a name="learning-now"></a>
 
+<img src="https://custom-icon-badges.herokuapp.com/badge/Power%20BI-0A0C10?logo=new_power_bi_logo&style=for-the-badge" alt="Power BI logo" title="Power BI" height="30" />
+&nbsp;
+<img src="https://custom-icon-badges.herokuapp.com/badge/Python-0A0C10?logo=pythonlogo01&style=for-the-badge" alt="Python logo" title="Python" height="30" />
+&nbsp;
+<img src="https://custom-icon-badges.herokuapp.com/badge/SQL-0A0C10?logo=sql_server(4)&style=for-the-badge" alt="SQL logo" title="SQL" height="30" />
+&nbsp;
+<img src="https://custom-icon-badges.herokuapp.com/badge/VS%20Code-0A0C10?logo=visual_studio_code_1&style=for-the-badge" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
+&nbsp;
+<img src="https://img.shields.io/badge/Git-0A0C10?logo=git&logoColor=F05032&style=for-the-badge" alt="Git logo" title="Git" height="30" />
+
+<a name="learning-next"></a>
+  
+</div>
+<div align="justify">
+A mais de 3 anos focado na criação de dashboards no POWER BI oferecendo insights estratégicos para a organização, com mais de 50 dashboards já em produção e amplamente utilizado por toda rede hoteleira. Atuo atualmente no setor de Planejamento e Inteligência de Mercado, principal área de suporte à tomada de decisões estratégicas da empresa, sendo responsável pelo Data Warehouse de vendas e criação de Dashboards no Power BI com foco em automação de processos e acompanhamentos de KPIs. Participei da implantação dos processos da central de Revenue Management da Atlântica Hospitality International, com participação direta na criação dos relatórios estratégicos no Power BI que hoje englobam os processos analíticos diários do setor. Com ampla capacidade analítica, previsão de demanda, elaboração Forecast e criação de relatórios, seja em Excel ou Power BI, com foco em resultados; gestão e treinamento de equipe.
+</div>
 <br>
 <!-- GITHUB STATUS -->
 
@@ -19,7 +36,7 @@ A 3 anos focado na criação de dashboards no POWER BI oferecendo insights estra
 </div>
 <br>
 
-<!-- TECNOLOGIAS -->
+<!-- TECNOLOGIAS
 ## Technologies and tools
 <div align="center">
 
@@ -38,7 +55,7 @@ A 3 anos focado na criação de dashboards no POWER BI oferecendo insights estra
 <a name="learning-next"></a>
   
 </div>
-<br>
+<br> -->
 <br>
 
 <!-- REDES SOCIAIS -->
