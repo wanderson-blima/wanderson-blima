@@ -1,5 +1,6 @@
 ## Hi there 👋
-I’m currently learning Python! 
+
+A 3 anos focado na criação de dashboards no POWER BI oferecendo insights estratégicos para a organização, com mais de 50 dashboards já em produção e amplamente utilizado por toda rede hoteleira. Atuo atualmente no setor de Planejamento e Inteligência de Mercado, principal área de suporte à tomada de decisões estratégicas da empresa, sendo responsável pelo Data Warehouse de vendas e criação de Dashboards no Power BI com foco em automação de processos e acompanhamentos de KPIs. Participei da implantação dos processos da central de Revenue Management da Atlântica Hospitality International, com participação direta na criação dos relatórios estratégicos no Power BI que hoje englobam os processos analíticos diários do setor. Com ampla capacidade analítica, previsão de demanda, elaboração Forecast e criação de relatórios, seja em Excel ou Power BI, com foco em resultados; gestão e treinamento de equipe.
 
 <br>
 <!-- GITHUB STATUS -->
