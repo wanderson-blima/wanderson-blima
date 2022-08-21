@@ -17,7 +17,15 @@
   
 </div>
 <div align="justify">
-A mais de 3 anos focado na <strong>criação de dashboards no POWER BI</strong> oferecendo insights estratégicos para a organização, com <strong>mais de 50 dashboards já em produção</strong> e amplamente utilizado por toda rede hoteleira. Atuo atualmente no setor de Planejamento e Inteligência de Mercado, principal área de <strong>suporte à tomada de decisões estratégicas</strong> da empresa, sendo responsável pelo Data Warehouse de vendas e criação de Dashboards no Power BI com <strong>foco em automação de processos e acompanhamentos de KPIs</strong>. Participei da implantação dos processos da central de Revenue Management da Atlântica Hospitality International, com participação direta na criação dos relatórios estratégicos no Power BI que hoje englobam os processos analíticos diários do setor. Com ampla capacidade analítica, previsão de demanda, elaboração Forecast e criação de relatórios, seja em Excel ou Power BI, com foco em resultados; gestão e treinamento de equipe.
+
+Com mais de 6 anos de experiência em Business Intelligence e Análise de Dados. Já realizei deploy de mais 50 dashboards no POWER BI que hoje, automatizam processos, oferecem insights e contribuem para uma rápida tomada de decisão para toda a organização. 
+
+Atuo atualmente no setor de Planejamento e Inteligência de Mercado, principal área de suporte à tomada de decisões estratégicas da empresa, sendo responsável pelo Data Warehouse e criação de Dashboards no Power BI com foco em automação de processos e acompanhamentos de KPIs.
+
+Participei da implantação dos processos da central de Revenue Management da Atlântica Hospitality International, sendo responsável pela criação dos relatórios estratégicos no Power BI que hoje englobam os processos analíticos diários do setor. 
+
+Possuo ampla capacidade analítica, previsão de demanda, elaboração Forecast e criação de relatórios em Power BI, com foco em resultados e gestão.
+
 </div>
 <br>
 <!-- GITHUB STATUS -->
