@@ -18,7 +18,7 @@
 </div>
 <div align="justify">
 
-Com mais de 6 anos de experiência em Business Intelligence e Análise de Dados. Já realizei deploy de mais 50 dashboards no POWER BI que hoje, automatizam processos, oferecem insights e contribuem para uma rápida tomada de decisão para toda a organização. 
+Com mais de 6 anos de experiência em Business Intelligence e Análise de Dados. Já realizei deploy de mais 50 dashboards no POWER BI que hoje geram valor ao negócio, automatizando processos, oferecendo insights e contribuindo para uma rápida tomada de decisão para toda a organização. 
 
 Atuo atualmente no setor de Planejamento e Inteligência de Mercado, principal área de suporte à tomada de decisões estratégicas da empresa, sendo responsável pelo Data Warehouse e criação de Dashboards no Power BI com foco em automação de processos e acompanhamentos de KPIs.
 
