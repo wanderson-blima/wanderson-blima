@@ -20,7 +20,7 @@
 
 Com mais de 6 anos de experiência em Business Intelligence e Análise de Dados. Já realizei deploy de mais 50 dashboards no POWER BI que hoje geram valor ao negócio, automatizando processos, oferecendo insights e contribuindo para uma rápida tomada de decisão para toda a organização. 
 
-Atuo atualmente no setor de Planejamento e Inteligência de Mercado, principal área de suporte à tomada de decisões estratégicas da empresa, sendo responsável pelo Data Warehouse e criação de Dashboards no Power BI com foco em automação de processos e acompanhamentos de KPIs.
+Atuo atualmente como Coordenador do setor de Planejamento e Business Intelligence, principal área de suporte à tomada de decisões estratégicas da empresa, sendo responsável pelo Data Warehouse e criação de Dashboards no Power BI com foco em automação de processos e acompanhamentos de KPIs.
 
 Participei da implantação dos processos da central de Revenue Management da Atlântica Hospitality International, sendo responsável pela criação dos relatórios estratégicos no Power BI que hoje englobam os processos analíticos diários do setor. 
 
