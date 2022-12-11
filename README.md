@@ -70,8 +70,4 @@ Possuo ampla capacidade analítica, previsão de demanda, elaboração Forecast 
 <div align="center">
     <a href="https://www.linkedin.com/in/wanderson-blima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" target="_blank"></a>
   
-<!-- CONTADOR DE VISITAS -->
-
-![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wanderson-blima&color=0A0C10&lcolor=0A0C10&style=for-the-badge&logo=Github&logoColor=#181717)
-
 </div>
