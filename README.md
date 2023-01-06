@@ -7,11 +7,14 @@
 &nbsp;
 <img src="https://custom-icon-badges.herokuapp.com/badge/Python-0A0C10?logo=pythonlogo01&style=for-the-badge" alt="Python logo" title="Python" height="30" />
 &nbsp;
+<img src="https://custom-icon-badges.herokuapp.com/badge/PySpark-0A0C10?logo=apache_spark_logo_icon_170560%20(2)&style=for-the-badge" alt="PySpark logo" title="PySpark" height="30" />
+&nbsp;
 <img src="https://custom-icon-badges.herokuapp.com/badge/SQL-0A0C10?logo=sql_server(4)&style=for-the-badge" alt="SQL logo" title="SQL" height="30" />
 &nbsp;
 <img src="https://custom-icon-badges.herokuapp.com/badge/VS%20Code-0A0C10?logo=visual_studio_code_1&style=for-the-badge" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
 &nbsp;
 <img src="https://img.shields.io/badge/Git-0A0C10?logo=git&logoColor=F05032&style=for-the-badge" alt="Git logo" title="Git" height="30" />
+  
 
 <a name="learning-next"></a>
   
