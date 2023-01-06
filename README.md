@@ -18,13 +18,17 @@
 </div>
 <div align="justify">
 
-Com mais de 6 anos de experiência em Business Intelligence e Análise de Dados. Já realizei deploy de mais 50 dashboards no POWER BI que hoje geram valor ao negócio, automatizando processos, oferecendo insights e contribuindo para uma rápida tomada de decisão para toda a organização. 
+Com mais de 6 anos de experiência em Analise de Dados, capaz de resolver problemas complexos e identificar oportunidades de negócios através grandes volumes de dados, utilizando conhecimentos avançados em Power BI, SQL e Python. 
 
-Atuo atualmente como Coordenador do setor de Planejamento e Business Intelligence, principal área de suporte à tomada de decisões estratégicas da empresa, sendo responsável pelo Data Warehouse e criação de Dashboards no Power BI com foco em automação de processos e acompanhamentos de KPIs.
+Altamente autodidata e com um perfil analítico, o que me permiti entender o problema e propor soluções com facilidade, rapidez e eficiência. 
 
-Participei da implantação dos processos da central de Revenue Management da Atlântica Hospitality International, sendo responsável pela criação dos relatórios estratégicos no Power BI que hoje englobam os processos analíticos diários do setor. 
+Atuo como Coordenador de Planejamento e Business Intelligence, principal área de suporte à tomada de decisões estratégicas do empreendimento, liderando o time de analistas e administrando o Data Warehouse, o CRM SalesForce e sendo responsável pela criação de Dashboards no Power BI com foco em automação de processos, acompanhamentos de KPIs e previsão de cenários, o que gera redução de custos e potencializa estratégias de negócios assertivas na organização, refletindo no aumento de receita.
 
-Possuo ampla capacidade analítica, previsão de demanda, elaboração Forecast e criação de relatórios em Power BI, com foco em resultados e gestão.
+Desenvolvedor de Power BI com mais de 60 dashboards desenvolvidos que hoje geram valor ao negócio, automatizando processos, oferecendo insights e contribuindo para uma rápida tomada de decisão para toda a organização ao prever cenários críticos com antecedência.
+
+Participei da implantação dos processos da central de Revenue Management da Atlântica Hospitality International, sendo responsável pela criação dos relatórios estratégicos no Power BI que hoje englobam os processos analíticos diários do setor.
+
+Conhecimento do ecossistema Hadoop, Spark e PySpark.
 
 </div>
 <br>
