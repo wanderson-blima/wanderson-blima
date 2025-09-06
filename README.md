@@ -21,17 +21,20 @@
 </div>
 <div align="justify">
 
-Com mais de 6 anos de experiência em Analise de Dados, capaz de resolver problemas complexos e identificar oportunidades de negócios através grandes volumes de dados, utilizando conhecimentos avançados em Power BI, SQL e Python. 
+**Com mais de 8 anos de experiencia com dados**, atualmente atuo como Gerente de Data & Analytics com foco em projetos estratégicos de Business Intelligence e Data Strategy em grandes organizações. Especializo-me em converter dados em impactos reais, como aumento de faturamento, redução de custos e otimização de processos.
+  
+## Experiência Principal
+**Tecnologias e Ferramentas:** Power BI, SQL, Python, Microsoft Fabric, Hadoop, Spark e Airflow. <br>
+**Foco em Resultados:** Histórico comprovado em Revenue Management, automação de processos críticos e cultivo de uma cultura data-driven, integrando tecnologia, análise e estratégia de negócios para maximizar ROI e impacto organizacional.
 
-Altamente autodidata e com um perfil analítico, o que me permiti entender o problema e propor soluções com facilidade, rapidez e eficiência. 
+## Diferenciais Competitivos
+**Liderança Data-Driven:** Gestão de equipes de alta performance com ênfase em transformação digital. <br>
+**Resultados Mensuráveis:** Redução de 45% em custos de licenciamento, aumento de 83% na receita e projeções financeiras com 99% de assertividade. <br>
+**Arquitetura de Dados:** Experiência em Hadoop, Spark, Airflow, Microsoft Fabric e Data Warehouses escaláveis. <br>
+**Business Intelligence:** Criação de mais de 68 dashboards estratégicos, pipelines de dados completos e automações de processos. <br>
+**Revenue Management:** Estratégias data-based para rentabilidade e crescimento sustentável. <br>
 
-Atuo como Coordenador de Planejamento e Business Intelligence, principal área de suporte à tomada de decisões estratégicas do empreendimento, liderando o time de analistas e administrando o Data Warehouse, o CRM SalesForce e sendo responsável pela criação de Dashboards no Power BI com foco em automação de processos, acompanhamentos de KPIs e previsão de cenários, o que gera redução de custos e potencializa estratégias de negócios assertivas na organização, refletindo no aumento de receita.
-
-Desenvolvedor de Power BI com mais de 60 dashboards desenvolvidos que hoje geram valor ao negócio, automatizando processos, oferecendo insights e contribuindo para uma rápida tomada de decisão para toda a organização ao prever cenários críticos com antecedência.
-
-Participei da implantação dos processos da central de Revenue Management da Atlântica Hospitality International, sendo responsável pela criação dos relatórios estratégicos no Power BI que hoje englobam os processos analíticos diários do setor.
-
-Conhecimento do ecossistema Hadoop, Spark e PySpark.
+Aqui no GitHub, compartilho repositórios relacionados a análise de dados, automações em Python, dashboards em Power BI e projetos de engenharia de dados. Sinta-se à vontade para explorar, contribuir ou entrar em contato!
 
 </div>
 <br>
